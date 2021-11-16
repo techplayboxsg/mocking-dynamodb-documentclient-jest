@@ -20,6 +20,6 @@
     "jest": "^26.0.1"
   },
   "dependencies": {
-    "aws-sdk": "^2.696.0"
+    "aws-sdk": "^2.814.0"
   }
 }
